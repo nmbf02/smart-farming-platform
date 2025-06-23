@@ -1,5 +1,7 @@
 # 🧑🏾‍🌾 Smart Farming Education Platform
 
+![image](https://github.com/user-attachments/assets/1fbf9a52-d097-49bd-a7eb-8b5843839d41)
+
 **Desarrollado por:** Nathaly Michel Berroa Fermín  
 **Idea original:** Felix Kioni & Derrick Gucema  
 **Categoría:** Agricultura & Tecnología  
